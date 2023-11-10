@@ -33,7 +33,7 @@ Dive into the **Quiz App**, a sleek web application that generates a new set of 
 - After the last question, show a "Check Your Results" button that leads to a results summary (can be an empty page for now).
 - Display a circle-shaped progress indicator with the text of how many questions the user answered in a centered card.
 - Display a summary card with a "Your answers" title that lists the numbered user's answers and/or correct answers with visual icons indicating correct or incorrect responses.
-- Implement a sticky navigation bar with options to return home or start a new quiz, ensuring it's accessible at any point during the quiz.
+- Implement a sticky navigation bar with options to return home or start a new quiz, ensuring it's accessible at any point in the results page of the quiz.
 - Adapt the UI for tablet dimensions, optimizing space and layout.
 - Adapt the UI for mobile dimensions, and adjust some of the buttons on smaller screens in a column layout.
 
